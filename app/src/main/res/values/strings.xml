@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string-array name="dialog_arrays">
+        <item>簡單</item>
+        <item>普通</item>
+        <item>困難</item>
+    </string-array>
+</resources>
